@@ -1,9 +1,11 @@
-To run the project,
+# Email Spam Classifier using SVM
+## Run the code
 
 1. Download all the files into a single folder
 2. Open octave and make sure you are in the right directory
 3. Run the "Main.m" file
 
+## Tech used
 This project has implemented the following email preprocessing and normalization steps:
 • Lower-casing: The entire email is converted into lower case
 • Stripping HTML: All HTML tags are removed from the emails.
