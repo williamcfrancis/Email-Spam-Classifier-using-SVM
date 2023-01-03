@@ -5,7 +5,7 @@
 2. Open octave and make sure you are in the right directory
 3. Run the "Main.m" file
 
-## Tech used
+## Technical Details
 This project has implemented the following email preprocessing and normalization steps:
 
 • Lower-casing: The entire email is converted into lower case
