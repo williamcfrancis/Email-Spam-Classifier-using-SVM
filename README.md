@@ -7,16 +7,24 @@
 
 ## Tech used
 This project has implemented the following email preprocessing and normalization steps:
+
 • Lower-casing: The entire email is converted into lower case
+
 • Stripping HTML: All HTML tags are removed from the emails.
+
 • Normalizing URLs: All URLs are replaced with the text \httpaddr".
+
 • Normalizing Email Addresses: All email addresses are replaced
 with the text \emailaddr".
+
 • Normalizing Numbers: All numbers are replaced with the text
 \number".
+
 • Normalizing Dollars: All dollar signs ($) are replaced with the text
 \dollar".
+
 • Word Stemming: Words are reduced to their stemmed form.
+
 • Removal of non-words: Non-words and punctuation have been re-
 moved.
 
